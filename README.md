@@ -38,5 +38,5 @@ Feel free to get in touch via Gitter (for anything `pyrolite` related), via
 |              Facilitators | Twitter                                                 | GitHub                                                 |
 | -------------------------:|:------------------------------------------------------- |:------------------------------------------------------ |
 |   Morgan Williams (CSIRO) | [@metasomite](https://twitter.com/metasomite)           | [@morganjwilliams](https://github.com/morganjwilliams) |
-|   Hayden Dalton (U. Melb) | [@HaydenDaltonGeo](https://twitter.com/HaydenDaltonGeo) |                                                        |
+|   Hayden Dalton (U. Melb) | [@HaydenDaltonGeo](https://twitter.com/HaydenDaltonGeo) | [@HaydenDalton](https://github.com/HaydenDalton)       |
 | Louise Schoneveld (CSIRO) | [@L_Schoneveld](https://twitter.com/L_Schoneveld)       | [@lavender22](https://github.com/lavender22)           |
