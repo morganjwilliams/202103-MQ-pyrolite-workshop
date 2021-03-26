@@ -19,7 +19,7 @@ geochemical data. For more information on `pyrolite`, visit the
 [documentation page](https://pyrolite.rtfd.io/en/develop/), where there is
 [a gallery of examples](https://pyrolite.readthedocs.io/en/develop/examples/index.html).
 Note that the content for this workshop exclusively works v0.3.0, which is accessible
-via PyPI (i.e. using `pip`) or on GitHub
+via PyPI (i.e. using `pip`) or 
 [from GitHub](https://github.com/morganjwilliams/pyrolite/tree/0.3.0).
 
 To view the notebooks for this workshop, follow the link below:
